@@ -63,11 +63,11 @@
 
 # 🚀 Featured Projects
 
-| 🚀 Project | 📝 Description | 🔗 Repository |
-|------------|----------------|---------------|
-| 🐄 **PashuCare** | Animal Healthcare & Management Platform | [View Project](https://github.com/Adihacker05/PashuCare) |
-| 💼 **DailyRozgaar** | Job Portal Platform connecting workers and employers | [View Project](https://github.com/Adihacker05/DailyRozgaar) |
-| 🍔 **Food Manor** | Modern Food Ordering Frontend Website | [View Project](https://github.com/Adihacker05/Food_Manor) |
+| 🚀 Project | 📝 Description | 🌐 Live Demo | 📂 Repository |
+|------------|----------------|--------------|----------------|
+| 🐄 **PashuCare** | Animal Healthcare & Management Platform | [Live Demo](https://pashu-care-chi.vercel.app/) | [GitHub](https://github.com/Adihacker05/PashuCare) |
+| 💼 **DailyRozgaar** | Job Portal Platform connecting workers and employers | [Live Demo](https://daily-rozgaar.vercel.app/) | [GitHub](https://github.com/Adihacker05/DailyRozgaar) |
+| 🍔 **Food Manor** | Modern Food Ordering Frontend Website | [Live Demo](https://food-manor.vercel.app/) | [GitHub](https://github.com/Adihacker05/Food_Manor) |
 
 ---
 
