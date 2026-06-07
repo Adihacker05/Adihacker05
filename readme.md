@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 
 <h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Java Programmer</h3>
@@ -85,8 +86,12 @@
 
 <p align="center">
 
-<a href="https://github.com/Adihacker05">
+<a href="https://github.com/Adihacker05" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:shivanshuchaturvedi8900@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -112,3 +117,4 @@
 <h3 align="center">
 🚀 Happy Coding 🚀
 </h3>
+```
