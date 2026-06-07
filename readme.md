@@ -17,7 +17,7 @@
 - 🎓 Final Year B.Tech CSE Student
 - 🏫 Maharana Pratap Engineering College (MPEC), Kanpur
 - 💻 Passionate about Full Stack Development
-- 🌱 MERN Stack & DSA
+- 🌱 Currently Learning MERN Stack & DSA
 - 🚀 Love Building Real World Projects
 - 📚 Exploring Backend Development & System Design
 
@@ -63,12 +63,11 @@
 
 # 🚀 Featured Projects
 
-| 🚀 Project | 📝 Description |
-|------------|----------------|
-| 🐄 **PashuCare** | Animal Healthcare & Management Platform |
-| 💼 **DailyRozgaar** | Job Portal Platform |
-| 🍔 **Food Manor** | Food Ordering Frontend Website |
-| 🌐 **Portfolio Website** | Personal Portfolio & Project Showcase |
+| 🚀 Project | 📝 Description | 🔗 Repository |
+|------------|----------------|---------------|
+| 🐄 **PashuCare** | Animal Healthcare & Management Platform | [View Project](https://github.com/Adihacker05/PashuCare) |
+| 💼 **DailyRozgaar** | Job Portal Platform connecting workers and employers | [View Project](https://github.com/Adihacker05/DailyRozgaar) |
+| 🍔 **Food Manor** | Modern Food Ordering Frontend Website | [View Project](https://github.com/Adihacker05/Food_Manor) |
 
 ---
 
