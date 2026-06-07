@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 
 <h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Java Programmer</h3>
@@ -117,4 +117,4 @@
 <h3 align="center">
 🚀 Happy Coding 🚀
 </h3>
-```
+
